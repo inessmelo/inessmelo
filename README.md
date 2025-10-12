@@ -42,14 +42,15 @@ Nos últimos anos, venho me dedicando ao aperfeiçoamento profissional contínuo
   
 ## 📚 Atualmente estou estudando
 
-- Teste de Performance
-- Aperfeiçoamente em automação com Postman
-- Automação de API com RobotFramework
+- Automação com Cypress
+- Estudando Node.Js
 - Certificação CTAL-TA
 
 <div style="display: inline">
   <img width="" height="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img width="" height="" src="https://camo.githubusercontent.com/e948344dc92e2ce2a9d4d00be03ac1b70e3f9b962e410867d4816be3e7015c11/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d506f73746d616e266c6f676f436f6c6f723d7768697465" />
+  <img width="" height="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img width="" height="" src="https://img.shields.io/badge/GIT-DAA520?style=for-the-badge&logo=GIT&logoColor=white" />
+  <img width="" height="" src="https://img.shields.io/badge/Cypress-7FFF00?style=for-the-badge&logo=cypress&logoColor=white" />
 </div>
 
 <br>
