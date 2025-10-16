@@ -75,8 +75,8 @@ Nos últimos anos, venho me dedicando ao aperfeiçoamento profissional contínuo
 
 ## 📈 Gits Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=inessmelo&theme=radical&show_icons=true)](https://github.com/inessmelo/github-readme-stats) 
-[![inessmelo](https://github-readme-stats.vercel.app/api/top-langs/?username=inessmelo&hide=html&layout=compact&theme=radical)](https://github.com/inessmelo/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=inessmelo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=inessmelo&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
