@@ -44,6 +44,7 @@ Nos últimos anos, venho me dedicando ao aperfeiçoamento profissional contínuo
 
 - Automação com Cypress
 - Estudando Node.Js
+- Estudando testes com K6
 - Certificação CTAL-TA
 
 <div style="display: inline">
