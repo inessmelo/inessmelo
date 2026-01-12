@@ -5,13 +5,14 @@ Analista de Teste - QA/QC - CTFL
 Sou formada em Matemática (2008) e especialista em Engenharia de Software com Ênfase em Qualidade e Testes pela VINCIT. Ao longo da minha trajetória profissional, desenvolvi sólida experiência em qualidade de software, testes manuais e automatizados, além de competências em gestão e liderança de times de QA nos últimos 3 anos.
 
 Minhas principais habilidades técnicas incluem:
-- Testes de API com Postman;
+- Testes de API com Postman automatizado com status report com Newman;
 - Automação de testes com Cypress e Robot Framework;
 - Conhecimento em JavaScript, Java e Python para suporte em automação;
 - Consultas e validações em banco de dados;
-- Atuação em diferentes domínios de negócio, como mobilidade urbana, turismo e viagens, alimentação, saúde, calçados e mídia digital.
+- Atuação em diferentes domínios de negócio, como mobilidade urbana, turismo e viagens, alimentação, saúde, e-commerce e mídia digital.
 
-Além das competências técnicas, destaco minhas soft skills: visão analítica, foco em qualidade contínua, adaptabilidade, comunicação clara, capacidade de liderança e gestão de processos.  
+### Soft skills    
+Visão analítica, foco em qualidade contínua, adaptabilidade, comunicação clara, capacidade de liderança e gestão de processos.  
 Nos últimos anos, venho me dedicando ao aperfeiçoamento profissional contínuo, buscando novas certificações e aprofundando meus conhecimentos técnicos para agregar ainda mais valor às entregas de qualidade em projetos de software.
 
 <br>
@@ -43,8 +44,8 @@ Nos últimos anos, venho me dedicando ao aperfeiçoamento profissional contínuo
 ## 📚 Atualmente estou estudando
 
 - Automação com Cypress
-- Estudando Node.Js
-- Estudando testes com K6
+- Estudando JS e Node.Js
+- Estudando testes com K6 (pausado momentaneamente)
 - Certificação CTAL-TA
 
 <div style="display: inline">
@@ -76,8 +77,8 @@ Nos últimos anos, venho me dedicando ao aperfeiçoamento profissional contínuo
 
 ## 📈 Gits Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=inessmelo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=inessmelo&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=inessmelo&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=inessmelo&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)     
 
 
 
