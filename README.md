@@ -2,7 +2,7 @@
 Analista de Teste - QA/QC - CTFL
 
 ## 🥇Resumo Profissional  
-Sou formada em Matemática (2008) e especialista em Engenharia de Software com Ênfase em Qualidade e Testes pela VINCIT. Ao longo da minha trajetória profissional, desenvolvi sólida experiência em qualidade de software, testes manuais e automatizados, além de competências em gestão e liderança de times de QA nos últimos 3 anos.
+Sou formada em Matemática (2008) e especialista em Engenharia de Software com Ênfase em Qualidade e Testes pela VINCIT. Ao longo da minha trajetória profissional, desenvolvi sólida experiência em qualidade de software, testes manuais e automatizados, além de competências em gestão e liderança de times de QA nos últimos 4 anos.
 
 Minhas principais habilidades técnicas incluem:
 - Testes de API com Postman automatizado com status report com Newman;
@@ -46,7 +46,7 @@ Nos últimos anos, venho me dedicando ao aperfeiçoamento profissional contínuo
 - Automação com Cypress
 - Estudando JS e Node.Js
 - Estudando testes com K6 (pausado momentaneamente)
-- Certificação CTAL-TA
+- Certificação CTAL-TA (pausado momentaneamente)
 
 <div style="display: inline">
   <img width="" height="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
